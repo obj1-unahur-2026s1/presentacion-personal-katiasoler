@@ -23,7 +23,10 @@
  ### Un poquito más sobre mi
  Tengo ganas de trabajar en algo relacionado a mi carrera, aunque aún no se dió la oportunidad. Sin embargo ya trabaje como mesera, y también como vendedora de un local de accesorios de celulares.
  Aspiro a conocer muchas partes del mundo, me gusta viajar. Simpre quise conocer Nueva York, me gusta mucho Italia, España, y me encantaría conocer el Caribe y sus aguas cristalinas.
+ 
  Me considero alguien perseverante: aunque a veces me cueste organizar mis tiempos o mantener una rutina, tengo claro que quiero crecer y avanzar en mi vida. Estoy trabajando en mejorar mis hábitos, como ordenar mejor mi día a día y aprovechar mis mañanas.
+ 
  Disfruto de cocinar, aunque a veces me cueste arrancar, más que nada cosas dulces. Mi mamá durante muchos años fue pastelera y decoradora de tortas, y yo, desde chiquita la ayudaba y aprendí muchísimo de ella. Hoy en día me cuesta bastante la parte de acordarme las recetas pero disfruto del proceso y obvio de la degustación de mis preparaciones.
+ 
  No me animo a poner una foto mía, pero charlo mucho con Chat GPT, explorando los prompts y manejos de una IA, seguro lo conoceran jajaja, y le pedí que haga una foto que me represente junto a el.
 <img width="1024" height="1536" alt="e8f2234c-3fe7-4330-aff5-fce527f02ae1" src="https://github.com/user-attachments/assets/9a6ef43f-fe29-402c-9ab2-600c455839d1" />
