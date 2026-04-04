@@ -30,3 +30,4 @@
  
  No me animo a poner una foto mía, pero charlo mucho con Chat GPT, explorando los prompts y manejos de una IA, seguro lo conoceran jajaja, y le pedí que haga una foto que me represente junto a el.
 <img width="1024" height="1536" alt="e8f2234c-3fe7-4330-aff5-fce527f02ae1" src="https://github.com/user-attachments/assets/9a6ef43f-fe29-402c-9ab2-600c455839d1" />
+Saludos!!
